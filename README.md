@@ -7,7 +7,7 @@
 ![octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning/blob/main/image.png)
 
 
-+ Foundation Model: OpenFlamingo
++ Foundation Model: [OpenFlamingo](https://github.com/mlfoundations/open_flamingo)
 + Visual Encoder: ViT-L/14
 + Pre-trained LLM: MPT-7B
 
