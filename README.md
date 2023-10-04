@@ -11,7 +11,7 @@
 + Visual Encoder: ViT-L/14
 + Pre-trained LLM: MPT-7B
 
-**Demo**: [Demo link](https://aa552fcabf3b1adfb5.gradio.live/)
+**Demo**: [Demo link](https://ebb7c809caebf9ae46.gradio.live/)
 
 
 
